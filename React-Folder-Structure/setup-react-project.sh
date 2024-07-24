@@ -57,7 +57,7 @@ import React from 'react';
 function Header() {
   return (
     <header>
-      <h1>Garage Sale Finder</h1>
+      <h1>APP NAME</h1>
     </header>
   );
 }
@@ -72,7 +72,7 @@ import React from 'react';
 function Footer() {
   return (
     <footer>
-      <p>&copy; 2024 Garage Sale Finder</p>
+      <p>FOOTER</p>
     </footer>
   );
 }
@@ -87,8 +87,8 @@ import React from 'react';
 function HomePage() {
   return (
     <div>
-      <h2>Welcome to the Garage Sale Finder</h2>
-      <p>Find the best garage sales near you!</p>
+      <h2>TITLE</h2>
+      <p>CAPTION</p>
     </div>
   );
 }
