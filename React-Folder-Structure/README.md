@@ -23,8 +23,6 @@ Ensure you have the following software installed:
 
 
 ### Usage
-
-**Create the Project**:
 ```./setup-react-project.sh <project-name>```
 
 
