@@ -24,8 +24,9 @@ Ensure you have the following software installed:
 
 ### Usage
 
-```./setup-react-project.sh <project-name>
+**Create the Project**:
+```./setup-react-project.sh <project-name>```
 
 
 ### Example
-```./setup-react-project.sh my-react-app
+```./setup-react-project.sh my-react-app```
